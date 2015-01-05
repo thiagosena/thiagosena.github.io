@@ -127,7 +127,7 @@ strong {
 
 #wrapper {
 	width:840px;
-	height:340px;
+	height:390px;
 	margin:0 auto;
 	margin-top:150px;
 }
@@ -174,7 +174,7 @@ input.no-js {
 /* SLIDER */
 /* ----------------------------------------- */
 .coda-slider-no-js .coda-slider { 
-	height: 280px; 
+	height: 300px; 
 	overflow: hidden !important;
 }
 
