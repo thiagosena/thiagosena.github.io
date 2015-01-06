@@ -618,6 +618,36 @@ div.slides > div {
 	background: url(../images/icn-web.jpg) 0 0;
 	background-repeat: no-repeat;
 }
+
+
+.message ul li.vcard {
+	background: url(../images/icn-cv.jpg) 0 0;
+	background-repeat: no-repeat;
+}
+.message ul li.address {
+	background: url(../images/icn-ad.jpg) 0 0;
+	background-repeat: no-repeat;
+	padding-left: 25px;
+}
+.message ul li.tel {
+	background: url(../images/icn-tel.jpg) 0 0;
+	background-repeat: no-repeat;
+	padding-top: 3px;
+	padding-left: 25px;
+	margin-top: 8px;
+}
+.message ul li.email {
+	background: url(../images/icn-mail.jpg) 0 0;
+	background-repeat: no-repeat;
+	padding-top: 3px;
+	padding-left: 25px;
+}
+.message ul li.web {
+	background: url(../images/icn-web.jpg) 0 0;
+	background-repeat: no-repeat;
+}
+
+
 .contact-content a {
 	padding-bottom:0;
 	color: #363737;
