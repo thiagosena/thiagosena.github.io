@@ -22,8 +22,8 @@ title: Thiago Sena | Desenvolvimento Web e tudo mais..
 description: "Java Software Engineer, HTML5, CSS3, JavaScript"
 meta_description: "Java Software Engineer, HTML5, CSS3, JavaScript"
 meta_keywords: "site, website, loja virtual, lojas virtuais, e-commerce, wordpress, frontend, front-end, html5, css3, javascript, jquery, seo, otimizacao, performance"
-url: http://thiagosena.com
-production_url: http://thiagosena.com
+url: https://thiagosena.com
+production_url: https://thiagosena.com
 repo: https://github.com/thiagosena/thiagosena.github.io
 disqus_shortname: "thiagothemes"
 rss_path: source/
@@ -32,10 +32,10 @@ author:
   image: /assets/images/author.jpg
   cv-en: /assets/files/curriculum-vitae-en.pdf
   email: thiago@thiagosena.com
-  url: http://thiagosena.com
-  facebook: http://facebook.com/thiagocasena
-  github: http://github.com/thiagosena
-  linkedin: http://linkedin.com/in/thiagodev
+  url: https://thiagosena.com
+  facebook: https://facebook.com/thiagocasena
+  github: https://github.com/thiagosena
+  linkedin: https://linkedin.com/in/thiagodev
   bio: "Engenheiro de software e entusiasta de novas tecnologias e performance, sempre em busca do melhor projeto e de um bom café."
 
 # thought
