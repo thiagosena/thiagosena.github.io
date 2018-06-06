@@ -1,0 +1,67 @@
+permalink: /:title/
+markdown: kramdown
+highlighter: pygments
+
+paginate: 2 #6
+comments: true
+paginate_path: "/page/:num"
+
+baseurl: "/thiagosena.github.io" # change to empty string ""
+domain_name: thiagosena.com
+google_analytics: ""
+
+source: source
+destination: _site
+
+# cover: /assets/images/header-cover.png
+
+# site title, description, meta_description, meta_keywords
+# Details for the RSS feed generator
+name: Thiago Sena
+title: Thiago Sena | Desenvolvimento Web e tudo mais..
+description: "Java Software Engineer, HTML5, CSS3, JavaScript"
+meta_description: "Java Software Engineer, HTML5, CSS3, JavaScript"
+meta_keywords: "site, website, loja virtual, lojas virtuais, e-commerce, wordpress, frontend, front-end, html5, css3, javascript, jquery, seo, otimizacao, performance"
+url: http://thiagosena.com
+production_url: http://thiagosena.com
+repo: https://github.com/thiagosena/thiagosena.github.io
+disqus_shortname: "thiagothemes"
+rss_path: source/
+author:
+  name: Thiago Sena
+  image: /assets/images/author.jpg
+  cv-en: /assets/files/curriculum-vitae-en.pdf
+  email: thiago@thiagosena.com
+  url: http://thiagosena.com
+  facebook: http://facebook.com/thiagocasena
+  github: http://github.com/thiagosena
+  linkedin: http://linkedin.com/in/thiagodev
+  bio: "Desenvolvedor Front-end/Wordpress entusiasta de performance, design responsivo e usabilidade, sempre em busca do melhor projeto e de um bom café."
+
+# thought
+thought:
+  text: Wisdom is not a product of schooling but of the lifelong attempt to acquire it.
+  author: Albert Einstein
+
+# Plugin: jekyll-assets
+assets:
+  dirname: /assets
+  baseurl: /thiagosena.github.io/assets/ # change to /assets/
+  sources:
+    - assets/images
+    - assets/fonts
+    - assets/css
+    - assets/js
+  cache: true
+  gzip: [ text/css, application/javascript ]
+
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  ignore:
+    envs: all
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
