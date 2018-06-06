@@ -6,7 +6,7 @@ paginate: 2 #6
 comments: true
 paginate_path: "/page/:num"
 
-baseurl: "/thiagosena.github.io" # change to empty string ""
+baseurl: "" # change to empty string ""
 domain_name: thiagosena.com
 google_analytics: ""
 
@@ -36,7 +36,7 @@ author:
   facebook: http://facebook.com/thiagocasena
   github: http://github.com/thiagosena
   linkedin: http://linkedin.com/in/thiagodev
-  bio: "Desenvolvedor Front-end/Wordpress entusiasta de performance, design responsivo e usabilidade, sempre em busca do melhor projeto e de um bom café."
+  bio: "Engenheiro de software e entusiasta de novas tecnologias e performance, sempre em busca do melhor projeto e de um bom café."
 
 # thought
 thought:
