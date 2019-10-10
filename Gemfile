@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'jekyll', '~> 2.5.3'
+gem 'jekyll', '~> 4.0.0'
 gem 'jekyll-assets'
 
 gem 'rake', '~> 12.3.0'
